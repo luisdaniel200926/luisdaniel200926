@@ -3,12 +3,18 @@
 ## I'm a Developer!
 
 - 🌱 I’m currently learning a lot about game development
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to have time with my dog.
 
-<!--
+
+## My Interests
+-Game Development
+-Computer Graphics
+
 ### Connect with me:
+<a href="https://www.linkedin.com/in/luis-daniel-castillo-hern%C3%A1ndez-370a21189/">
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</a>
+<!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
