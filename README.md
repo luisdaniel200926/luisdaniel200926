@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 - 🌱 I’m currently learning a lot about game development
-- ⚡ Fun fact: I love to have time with my dog.
+- ⚡ Fun fact: I love to spend time with my dog.
 
 
 ## My Interests
