@@ -8,6 +8,8 @@
 
 ## My Interests
 -Computer Graphics
+-Image Processing
+-Game Development
 
 ## Experience In
 
