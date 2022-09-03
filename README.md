@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning a lot about data science and game development
+- 🌱 I’m currently learning a lot about **data science** and **game development**
 - ⚡ Fun fact: I love to spend time with my dog. :dog:
 
 
